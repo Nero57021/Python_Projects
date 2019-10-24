@@ -24,3 +24,6 @@ print(s1[6:])
 # new update line for github purposes
 
 print("This should all be good for the new upcoming list of project.")
+
+# test of commits on git
+
