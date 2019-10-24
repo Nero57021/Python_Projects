@@ -18,5 +18,9 @@ print(s1[0:21])
 
 print(s1[6:])
 
+# new recorded change
+# test pull
 
-#test pull
+# new update line for github purposes
+
+print("This should all be good for the new upcoming list of project.")
