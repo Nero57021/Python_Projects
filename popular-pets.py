@@ -59,5 +59,5 @@ for line in file.read().splitlines():
     label, value = line.split(' ')
     pn.add(label, int(value))
 file.close()
-
+# new test of changes
 pn.render()
