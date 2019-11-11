@@ -1,5 +1,5 @@
 import simpletool
-from Student import Student
+from student import Student
 
 student1 = Student("Jim", "Business", 3.1)
 print(student1)
